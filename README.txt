@@ -9,9 +9,9 @@ Files:
 FirstProgram.java
 
 ****************************************************************************************************
-Description:
-This is my first Java program. The program asks for the user's name, then it makes the user guess a number.
-The program asks for your favorite number and prints the “@” symbol corresponding to the previous input.
+DISCLAIMER:
+I do NOT allow copying or referencing of this repository for academic benefits at Miami University.
+Any found violations of Miami University's Academic Integrity policy will be reported.
 
 
 
