@@ -5,7 +5,7 @@ Creator(s): - Wayne Chaney
 
 ****************************************************************************************************
 Description:
-Everything within this repo was all the projects I’ve completed in this class. This course was over a 15-week semester at Miami University’s College of Engineering and Computing on the main campus. View more info about the course here.
+All the projects I’ve completed in my first CSE class. This course was over the Fall semester(2019) at Miami University’s College of Engineering and Computing on the main campus. View more info about the course here.
 
 ****************************************************************************************************
 DISCLAIMER:
