@@ -1,4 +1,4 @@
-FirstProgram with java
+First Time Program with java
 
 ****************************************************************************************************
 Creator(s): - Wayne Chaney
