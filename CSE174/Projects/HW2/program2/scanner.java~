@@ -1,0 +1,8 @@
+Public class Untitled { 
+  public static void.main(String args() {
+  import java.until.Scanner;
+  Scanner in = new scanner(System.in);
+  System.out.print("Please enter the number of bottles: ");
+  int =bottles =in.nextInt();
+}
+}

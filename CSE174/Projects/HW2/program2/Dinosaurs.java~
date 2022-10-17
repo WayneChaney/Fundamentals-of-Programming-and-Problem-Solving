@@ -1,0 +1,26 @@
+/*
+ * Name: Wayne Chaney 
+ * Intructor: Meisam Amjad
+ * CSE 174, Sectiom A
+ * Date: 09/4/2019
+ * Filename: Dinosaurs.java
+ * Description: Practice with writing, saving and compiling code 
+ */
+public class Dinosaurs{
+    public static void main(String[] args) {
+     System.out.println("      --"); 
+     System.out.println("     /..");    
+     System.out.println("    /");
+     System.out.println("  _   \\`____/  _");
+     System.out.println(" / \\  ||   / \\ ");
+     System.out.println("-   --- ---  --"); 
+     System.out.println(" \\ /     \\ /");
+     System.out.println("\n");
+     System.out.println("Course   Instuctor   Credit");
+     System.out.println("---------------------------");
+     System.out.println("CSE 174   Meisam       3   ");
+     System.out.println("MTH 125   Anderson     5   ");
+     System.out.println("ENG 111   Trivedi      2   ");
+     System.out.println("CEC 101   Rousta       1   ");
+    }
+}  
